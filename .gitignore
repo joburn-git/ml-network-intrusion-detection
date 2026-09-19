@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+cache/
+data/
+models/
+outputs/
+*.csv
+*.joblib
+*.pkl
+*.zip
+
